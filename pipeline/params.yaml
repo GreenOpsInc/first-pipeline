@@ -1,0 +1,10 @@
+arguments:
+  parameters:
+    - name: application-name-dev
+      value: testapp-dev
+    - name: revision
+      value: main
+    - name: argocd-server-address
+      value: <enter>
+    - name: argocd-credentials-secret
+      value: argocd-user
